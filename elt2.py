@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[3]:
 import glob
 import pandas as pd
 from datetime import datetime
